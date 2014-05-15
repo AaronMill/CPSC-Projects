@@ -1,1 +1,5 @@
-hi
+This program is a racing simulation that consists of two driving tracks: an arctic track and a desert track. The game simulation is shown in "overview.png". An SUV races on the arctic track and a sports car races on the desert track. For a vehicle to win the game they must reach the end of the track first without running out of fuel. If both vehicles reach the end of the track at the same time, then it is a draw. 
+
+For each track there is a possibility of weather changes. On the arctic track there is a possibility of a blizzard blowing over. If a blizzard occurs, then the SUV must be in AWD mode or the SUV will be unable to move. On the desert track a heat wave can occur, and when this happens fuel consumption doubles for the sports car. 
+
+In "stats.png" player options are listed for each vehicle and these options can be selected during the game. In "cheat.png" additional functionality is shown: testers can place a certain vehicle on any spot on its track, change fuel levels manually, and invoke a weather condition for either track. 
