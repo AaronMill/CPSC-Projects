@@ -1,1 +1,1 @@
-This program is written in SPARC assembly language. 
+This program is written in SPARC assembly language. The program solves for y in the equation: y = 2x^3 - 19x^2 + 9x + 45 for x = -2,-1. In addition to solving this equation, the program includes macros and optimization as additional functionality. 
